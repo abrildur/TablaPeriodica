@@ -35,3 +35,5 @@ A.- Crear un repositorio en GitHub<br />
     <li>5.- Eliminar</li>
     <li>6.- Traer los elementos ordenados por diferentes formas</li>
 </ol>
+
+![img](/tabla-periodica2.png "Tabla periodica")
