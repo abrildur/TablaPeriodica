@@ -28,12 +28,12 @@ A.- Crear un repositorio en GitHub<br />
 3.- Se debe de desarrollar el backend, usando nodejs y postgreSQL.
 <br />
 <ol>
-    <li>1.- Alta de todo lo necesario</li>
-    <li>2.- Traer la información de la tabla</li>
-    <li>3.- Traer la información de 1 o N elementos</li>
-    <li>4.- Editar</li>
-    <li>5.- Eliminar</li>
-    <li>6.- Traer los elementos ordenados por diferentes formas</li>
+    <li>Alta de todo lo necesario</li>
+    <li>Traer la información de la tabla</li>
+    <li>Traer la información de 1 o N elementos</li>
+    <li>Editar</li>
+    <li>Eliminar</li>
+    <li>Traer los elementos ordenados por diferentes formas</li>
 </ol>
 
 ![img](/tabla-periodica2.png "Tabla periodica")
