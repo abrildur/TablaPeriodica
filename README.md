@@ -15,12 +15,13 @@ A.- Crear un repositorio en GitHub<br />
 <ol>
     <li>
     1.- Un elemento tiene {
-        Tipo de elemento
-        Nombre
-        Simbolo Químico
-        Número Atómico
-        Masa Atómica
-        Image
+         <br />
+        Tipo de elemento  <br />
+        Nombre <br />
+        Simbolo Químico <br />
+        Número Atómico <br />
+        Masa Atómica <br />
+        Image  <br />
     }
     </li>
     </ol>
